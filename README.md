@@ -1,11 +1,12 @@
-# CapCut Pro Bypass (CLI Edition)
+# CapCut Pro Bypass (GUI Edition)
 
-Script ini dibuat untuk membantu pengguna CapCut **menyimpan video hasil editan dengan fitur Pro** tanpa harus join Pro. Script ini berbasis **Python CLI** dan sudah dibundle menjadi .exe agar mudah dijalankan oleh semua pengguna Windows, dan tanpa download python lagi.
+Script ini dibuat untuk membantu pengguna CapCut **menyimpan video hasil editan dengan fitur Pro** tanpa perlu langganan CapCut Pro. Versi ini hadir dalam bentuk **GUI berbasis Python** dan sudah dibundle menjadi `.exe`, jadi kamu bisa langsung klik dan jalan — **tanpa instal Python atau ribet di terminal**.
 
-## ⚙️ Fitur
+## 🧩 Fitur Utama
 
 - ✅ Export video Pro tanpa akun Pro
-- ✅ Auto save ke folder Video (nggak perlu cari manual di AppData)
+- ✅ Tampilan GUI yang simpel dan mudah digunakan
+- ✅ Otomatis menyimpan video ke folder pilihanmu
 - ✅ Size video kecil, tapi kualitas tetap bagus
 
 ## ⚠️ Kekurangan
@@ -14,27 +15,29 @@ Script ini dibuat untuk membantu pengguna CapCut **menyimpan video hasil editan 
 - ❌ Tidak boleh update CapCut ke versi terbaru (harus versi saat ini)
 - ❌ Fitur-fitur lain tetap terkunci (seperti Auto Caption)
 
-## 📦 Cara Install
+## ▶️ Cara Menggunakan
 
-1. Download `Setup_CapCutProBypass.exe`
-2. Jalankan installernya dan **ikuti wizard**
-3. Akan muncul info penting sebelum instalasi
-4. Di akhir instalasi, bisa pilih:
-   - Jalankan script langsung
-   - Buka channel YouTube YogaxD
-   - (Opsional) Buka video tutorial
+1. Download file `CapCutProBypass_GUI.exe` dari folder output
+2. Jalankan file `.exe` tersebut (klik dua kali)
+3. Di aplikasi, lakukan langkah berikut:
+   - Pilih **folder Draft CapCut** (biasanya di AppData)
+   - Pilih **project** yang ingin kamu export
+   - Pilih **folder output** tempat menyimpan video
+   - Klik **Export**
+4. Tunggu proses selesai, dan video kamu akan langsung tersimpan!
 
-- Jika Muncul Windows Smartscreen/Windows Protected Your Pc, Klik More Info Lalu Run Anyway
+> ℹ️ Jika muncul peringatan "Windows protected your PC", klik **More Info** lalu **Run Anyway**.
 
-## 📄 Catatan
+## 📌 Catatan
 
-- Script ini legal digunakan untuk **Educational Purpose Only**.
-- Jika exe diblokir windows defender, silahkan matikan windows defender
-- Jika anda ragu, bisa coba versi file py nya, dan kamu bisa cek isi dari scriptnya
+- Script ini hanya untuk **tujuan edukasi**.
+- Jika Windows Defender memblokir, kamu bisa nonaktifkan Defender sementara.
+- Jika ragu, tersedia juga versi `.py` yang bisa kamu buka dan periksa langsung isi kodenya.
 
 ## 👨‍💻 Dibuat oleh
 
-**YogaxD**  
-🔗 [YouTube Channel](https://www.youtube.com/c/YogaxD)
+[YogaxD](https://www.youtube.com/c/YogaxD)
+
+[mohfer](https://mohfer.my.id)
 
 ---
